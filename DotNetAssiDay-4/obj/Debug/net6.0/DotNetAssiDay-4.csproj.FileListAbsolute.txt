@@ -1,0 +1,15 @@
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\bin\Debug\net6.0\DotNetAssiDay-4.exe
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\bin\Debug\net6.0\DotNetAssiDay-4.deps.json
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\bin\Debug\net6.0\DotNetAssiDay-4.runtimeconfig.json
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\bin\Debug\net6.0\DotNetAssiDay-4.dll
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\bin\Debug\net6.0\DotNetAssiDay-4.pdb
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.csproj.AssemblyReference.cache
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.AssemblyInfoInputs.cache
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.AssemblyInfo.cs
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.csproj.CoreCompileInputs.cache
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.dll
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\refint\DotNetAssiDay-4.dll
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.pdb
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\DotNetAssiDay-4.genruntimeconfig.cache
+C:\Users\shri2\source\repos\DotNetDay-4\DotNetAssiDay-4\DotNetAssiDay-4\obj\Debug\net6.0\ref\DotNetAssiDay-4.dll
